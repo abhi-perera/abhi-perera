@@ -12,14 +12,11 @@
 </p>
 
 ---
-
 ### ⚡ Fun Blinking Effect
-
-You can create a **blinking effect** in README using GIFs. Example:
-
 <p align="center">
   <img src="https://c.tenor.com/KzLJ4MfQXscAAAAC/blinking-eyes.gif" width="100" />
 </p>
+
 
 ---
 
