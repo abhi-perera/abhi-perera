@@ -12,9 +12,8 @@
 </p>
 
 ---
-### ⚡ Fun Blinking Effect
 <p align="center">
-  <img src="https://c.tenor.com/KzLJ4MfQXscAAAAC/blinking-eyes.gif" width="100" />
+  <img src="YOUR_BLINKING_TEXT.gif" width="300">
 </p>
 
 
