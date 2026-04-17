@@ -8,9 +8,8 @@
 ---
 ### 🚀 About Me
 - 🎓 Engineering Undergraduate (University of Peradeniya)
-- ⚡ Interested in Electrical & Biomedical Engineering
+- ⚡ Interested in Computer & Biomedical Engineering
 - 🧠 Working on Healthcare + AI projects
-- 💡 Built a Kidney Disease Prediction Model
 - 🌱 Currently learning Python, Data Structures & Biomedical Concepts
 
 ---
