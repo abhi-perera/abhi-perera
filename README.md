@@ -39,7 +39,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/uduli-abhimani-b31329355/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:abhimsnivpr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
