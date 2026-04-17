@@ -1,26 +1,48 @@
-# 👋 Hello, I'm Uduli!
+<h1 align="center">Hi 👋, I'm Uduli</h1>
+<h3 align="center">💻 Engineering Student | Future computer Engineer ⚡</h3>
 
 <p align="center">
-  <b><blink>Hello, Welcome to my GitHub!</blink></b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Python+Developer;Learning+New+Technologies+Everyday" />
 </p>
 
 ---
-<p align="center">
-  <img src="YOUR_BLINKING_TEXT.gif" width="300">
-</p>
 
+### 🚀 About Me
+- 🎓 Engineering Undergraduate
+- ⚡ Interested Computer Engineering
+- 💡 Passionate about AI & Software Development
+- 🌱 Currently learning **Advanced Python & Data Structures**
 
 ---
 
-### 💻 My Skills
-- Python
-- JavaScript
-- HTML & CSS
-- Git & GitHub
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:abhimsnivpr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+⭐️ From Uduli
