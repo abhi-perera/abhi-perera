@@ -6,12 +6,12 @@
 </p>
 
 ---
-
 ### 🚀 About Me
-- 🎓 Engineering Undergraduate
-- ⚡ Interested Computer Engineering
-- 💡 Passionate about AI & Software Development
-- 🌱 Currently learning **Advanced Python & Data Structures**
+- 🎓 Engineering Undergraduate (University of Peradeniya)
+- ⚡ Interested in Electrical & Biomedical Engineering
+- 🧠 Working on Healthcare + AI projects
+- 💡 Built a Kidney Disease Prediction Model
+- 🌱 Currently learning Python, Data Structures & Biomedical Concepts
 
 ---
 
